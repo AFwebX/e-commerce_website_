@@ -1,6 +1,6 @@
 # VISTA — Modern Clothing Store
 
-Front-end fashion e-commerce demo built with HTML, CSS, JavaScript and React.
+Front-end fashion e-commerce demo built with HTML, CSS, JavaScript and React. Includes 50 products with prices displayed in Indian Rupees (INR).
 
 ## Project files
 
